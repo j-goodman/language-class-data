@@ -1,54 +1,54 @@
 [
     {
-        "language": "Arabic", "teacher": "Aya", "level": "beginner",
+        "id": 11, "language": "Arabic", "teacher": "Aya", "level": "beginner",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
-        "language": "English", "teacher": "Brian", "level": "beginner",
+        "id": 12, "language": "English", "teacher": "Brian", "level": "beginner",
         "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
-        "language": "French", "teacher": "Florence", "level": "beginner",
+        "id": 13, "language": "French", "teacher": "Florence", "level": "beginner",
         "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
-        "language": "Hindi", "teacher": "Pari", "level": "beginner",
+        "id": 14, "language": "Hindi", "teacher": "Pari", "level": "beginner",
         "days": ["Wednesday", "Friday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
-        "language": "Mandarin", "teacher": "Yichen", "level": "beginner",
+        "id": 15, "language": "Mandarin", "teacher": "Yichen", "level": "beginner",
         "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
-        "language": "Spanish", "teacher": "Camila", "level": "beginner",
+        "id": 16, "language": "Spanish", "teacher": "Camila", "level": "beginner",
         "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
-        "language": "English", "teacher": "Maria", "level": "intermediate",
+        "id": 17, "language": "English", "teacher": "Maria", "level": "intermediate",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
     }, {
-        "language": "French", "teacher": "Florence", "level": "intermediate",
+        "id": 18, "language": "French", "teacher": "Florence", "level": "intermediate",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
     }, {
-        "language": "Mandarin", "teacher": "Yichen", "level": "intermediate",
+        "id": 19, "language": "Mandarin", "teacher": "Yichen", "level": "intermediate",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
     }, {
-        "language": "Spanish", "teacher": "Valeria", "level": "intermediate",
+        "id": 20, "language": "Spanish", "teacher": "Valeria", "level": "intermediate",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
     }, {
-        "language": "English", "teacher": "George", "level": "advanced",
+        "id": 21, "language": "English", "teacher": "George", "level": "advanced",
         "days": ["Sunday"], "time": ["12:30", "16:30"], "capacity": 8,
         "description": "Focuses on fluency and real-world conversation for experienced students."
     }, {
-        "language": "French", "teacher": "Guy", "level": "advanced",
+        "id": 22, "language": "French", "teacher": "Guy", "level": "advanced",
         "days": ["Wednesday", "Friday"], "time": ["18:00", "20:00"], "capacity": 8,
         "description": "Focuses on fluency and real-world conversation for experienced students."
     }, {
-        "language": "Spanish", "teacher": "Camila", "level": "advanced",
+        "id": 23, "language": "Spanish", "teacher": "Camila", "level": "advanced",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 8,
         "description": "Focuses on fluency and real-world conversation for experienced students."
     }
