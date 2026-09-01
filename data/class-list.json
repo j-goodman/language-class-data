@@ -1,0 +1,55 @@
+[
+    {
+        "language": "Arabic", "teacher": "Aya", "level": "beginner",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Our beginner language classes are a great introduction to a new language, whether you're learning for business, travel, or personal enrichment. No prior experience is required."
+    }, {
+        "language": "English", "teacher": "Brian", "level": "beginner",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "Our beginner language classes are a great introduction to a new language, whether you're learning for business, travel, or personal enrichment. No prior experience is required."
+    }, {
+        "language": "French", "teacher": "Florence", "level": "beginner",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "Our beginner language classes are a great introduction to a new language, whether you're learning for business, travel, or personal enrichment. No prior experience is required."
+    }, {
+        "language": "Hindi", "teacher": "Pari", "level": "beginner",
+        "days": ["Wednesday", "Friday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Our beginner language classes are a great introduction to a new language, whether you're learning for business, travel, or personal enrichment. No prior experience is required."
+    }, {
+        "language": "Mandarin", "teacher": "Yichen", "level": "beginner",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "Our beginner language classes are a great introduction to a new language, whether you're learning for business, travel, or personal enrichment. No prior experience is required."
+    }, {
+        "language": "Spanish", "teacher": "Camila", "level": "beginner",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "Our beginner language classes are a great introduction to a new language, whether you're learning for business, travel, or personal enrichment. No prior experience is required."
+    }, {
+        "language": "English", "teacher": "Maria", "level": "intermediate",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Our intermediate language classes build on foundational skills, helping students grow their vocabulary and confidence in conversation. Some prior experience is recommended."
+    }, {
+        "language": "French", "teacher": "Florence", "level": "intermediate",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Our intermediate language classes build on foundational skills, helping students grow their vocabulary and confidence in conversation. Some prior experience is recommended."
+    }, {
+        "language": "Mandarin", "teacher": "Yichen", "level": "intermediate",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Our intermediate language classes build on foundational skills, helping students grow their vocabulary and confidence in conversation. Some prior experience is recommended."
+    }, {
+        "language": "Spanish", "teacher": "Valeria", "level": "intermediate",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Our intermediate language classes build on foundational skills, helping students grow their vocabulary and confidence in conversation. Some prior experience is recommended."
+    }, {
+        "language": "English", "teacher": "George", "level": "advanced",
+        "days": ["Sunday"], "time": ["12:30", "16:30"], "capacity": 8,
+        "description": "Our advanced language classes focus on fluency and nuance, preparing students for real-world conversations and complex topics. Significant prior experience is required."
+    }, {
+        "language": "French", "teacher": "Guy", "level": "advanced",
+        "days": ["Wednesday", "Friday"], "time": ["18:00", "20:00"], "capacity": 8,
+        "description": "Our advanced language classes focus on fluency and nuance, preparing students for real-world conversations and complex topics. Significant prior experience is required."
+    }, {
+        "language": "Spanish", "teacher": "Camila", "level": "advanced",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 8,
+        "description": "Our advanced language classes focus on fluency and nuance, preparing students for real-world conversations and complex topics. Significant prior experience is required."
+    }
+]
