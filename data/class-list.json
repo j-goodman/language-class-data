@@ -52,4 +52,29 @@
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 8,
         "description": "Focuses on fluency and real-world conversation for experienced students."
     }
+    , {
+        "id": 24, "language": "Japanese", "teacher": "Koshi", "level": "beginner",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
+    }, {
+        "id": 25, "language": "Portuguese", "teacher": "Ana", "level": "beginner",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
+    }, {
+        "id": 26, "language": "Hindi", "teacher": "Pari", "level": "intermediate",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
+    }, {
+        "id": 27, "language": "Mandarin", "teacher": "Li", "level": "advanced",
+        "days": ["Wednesday", "Friday"], "time": ["18:00", "20:00"], "capacity": 8,
+        "description": "Focuses on fluency and real-world conversation for experienced students."
+    }, {
+        "id": 28, "language": "Arabic", "teacher": "Aya", "level": "intermediate",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
+    }, {
+        "id": 29, "language": "Arabic", "teacher": "Fatima", "level": "advanced",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 8,
+        "description": "Focuses on fluency and real-world conversation for experienced students."
+    }
 ]
