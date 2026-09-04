@@ -53,7 +53,7 @@
         "description": "Focuses on fluency and real-world conversation for experienced students."
     }
     , {
-        "id": 24, "language": "Japanese", "teacher": "Koshi", "level": "beginner",
+        "id": 24, "language": "Japanese", "teacher": "Ren", "level": "beginner",
         "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }, {
@@ -76,5 +76,13 @@
         "id": 29, "language": "Arabic", "teacher": "Fatima", "level": "advanced",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 8,
         "description": "Focuses on fluency and real-world conversation for experienced students."
+    }, {
+        "id": 30, "language": "Spanish", "teacher": "Rafael", "level": "intermediate",
+        "days": ["Monday", "Wednesday", "Friday"], "time": ["18:30", "19:30"], "capacity": 10,
+        "description": "Builds on foundational skills to grow vocabulary and conversational confidence."
+    }, {
+        "id": 31, "language": "French", "teacher": "Lea", "level": "beginner",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }
 ]
