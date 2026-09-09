@@ -80,5 +80,9 @@
         "id": 31, "language": "French", "teacher": "Lea", "level": "beginner",
         "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
         "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
+    }, {
+        "id": 32, "language": "Swahili", "teacher": "Robert", "level": "beginner",
+        "days": ["Tuesday", "Thursday"], "time": ["18:00", "20:00"], "capacity": 10,
+        "description": "An accessible introduction to the language for complete beginners, no prior experience needed."
     }
 ]
